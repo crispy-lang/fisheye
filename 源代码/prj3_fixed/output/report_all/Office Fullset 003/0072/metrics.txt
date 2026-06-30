@@ -1,0 +1,7 @@
+valid_count=499163
+mean_angular_error_deg=1.735512
+median_angular_error_deg=0.097933
+rmse_angular_error_deg=9.509371
+percent_below_11.25_deg=96.757973
+percent_below_22.5_deg=97.409864
+percent_below_30_deg=97.731603
