@@ -1,0 +1,7 @@
+源代码/prj3_fixed/build/
+源代码/prj3_fixed/output/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
